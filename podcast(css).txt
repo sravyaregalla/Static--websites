@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.image {
+    height: 40vh;
+    width: 100vw;
+
+
+}
+
+.head {
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+
+}
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 50vh;
+    width: 130vw;
+    background-size: cover;
+
+
+}
+
+.image1 {
+    height: 30vh;
+    width: 50vw;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+.h2 {
+    color: #151765;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 20px;
+
+}
+
+.p1 {
+    font-size: 20px;
+    color: #5a7184;
+    margin-left: 30px;
+
+
+}
+
+.card-c {
+    background-color: #151765;
+    padding: 20px;
+    height: 170px;
+
+
+
+
+
+}
+
+.image2 {
+    height: 36vh;
+    width: 49vw;
+    padding: 10px;
+    margin-right: 15px;
+
+}
+
+.head6 {
+    color: white;
+    padding: 5px;
+}
+
+.head7 {
+    color: white;
+}
+
+.heada {
+    color: #151765;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card-a {
+    padding: 10px;
+
+}
+
+.headb {
+    font-size: 15px;
+    color: grey;
+}
+
+.headc {
+    color: #151765;
+}
+
+.image4 {
+    height: 43vh;
+    width: 49vw;
+    padding: 10px;
+}
+
+.card-b {
+    height: 180px;
+    width: 430px;
+    background-color: white;
+    padding: 20px;
+}
+
+.button {
+    background-color: #151765;
+    border-radius: 15px;
+    color: white;
+    text-align: center;
+    width: 25vw;
+    margin-left: 180px;
+    padding: 10px;
+}
+
+.podcast-heading {
+    padding: 10px;
+    margin: 10px;
+}
+
+.b {
+    padding-top: 120px;
+}
